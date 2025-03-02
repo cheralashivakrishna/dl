@@ -61,5 +61,5 @@ python train_kmnist.py
 
 ## Author
 
-**Cherala Shiva Krishna **
+Cherala Shiva Krishna
 
